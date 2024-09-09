@@ -95,7 +95,7 @@ Developing and optimizing e-commerce platforms, focusing on performance, scalabi
 
 ### Lead Developer for **Final Year Project - MultiVendor Ecommerce Platform**
 - **Role:** Lead Developer
-- **Duration:** 2022 - 2024
+- **Duration:** 2022 - 2023
 - **Responsibilities:**
     - Led a small team to design and develop a comprehensive MultiVendor Ecommerce Platform.
     - Managed project timelines, coordinated team activities, and ensured successful project delivery.
