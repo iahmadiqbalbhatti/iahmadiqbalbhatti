@@ -17,11 +17,14 @@ Welcome to my GitHub profile! I'm a seasoned **Web Developer and Designer** with
 ![TypeScript](https://img.shields.io/badge/-TypeScript-030712?style=flat&logo=typescript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-030712?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-030712?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-030712?style=flat&logo=Java)&nbsp;
-![AWS](https://img.shields.io/badge/-Python-030712?style=flat&logo=amazonwebservices)&nbsp;
+![Java](https://img.shields.io/badge/-Java-030712?style=flat&logo=openjdk)&nbsp;
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-030712?style=flat&logo=amazonwebservices)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-030712?style=flat&logo=supabase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-030712?style=flat&logo=firebase)&nbsp;
 ![React](https://img.shields.io/badge/-React-030712?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next%20JS-030712?style=flat&logo=nextdotjs)&nbsp;
 ![GatsbyJS](https://img.shields.io/badge/-Gatsby-030712?style=flat&logo=Gatsby)&nbsp;
+![Jamstack](https://img.shields.io/badge/-Jamstack-030712?style=flat&logo=jamstack)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-030712?style=flat&logo=node.js)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-030712?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-030712?style=flat&logo=CSS3)&nbsp;
@@ -40,7 +43,6 @@ Welcome to my GitHub profile! I'm a seasoned **Web Developer and Designer** with
 ![Sanity](https://img.shields.io/badge/-Sanity-030712?style=flat&logo=Sanity)&nbsp;
 ![Wix](https://img.shields.io/badge/-Wix-030712?style=flat&logo=Wix)&nbsp;
 ![Webflow](https://img.shields.io/badge/-Webflow-030712?style=flat&logo=Webflow)&nbsp;
-![Webflow](https://img.shields.io/badge/-Webflow-030712?style=flat&logo=Webflow)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-030712?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-030712?style=flat&logo=Flutter)&nbsp;
 ![C](https://img.shields.io/badge/-C-030712?style=flat&logo=C)&nbsp;
@@ -49,7 +51,8 @@ Welcome to my GitHub profile! I'm a seasoned **Web Developer and Designer** with
 ![GitHub](https://img.shields.io/badge/-GitHub-030712?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-030712?style=flat&logo=markdown)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-030712?style=flat&logo=webstorm)&nbsp;
-![WebStorm](https://img.shields.io/badge/-PyCharm%20Professional-030712?style=flat&logo=pycharm)&nbsp;
+![PyCharmProfessional](https://img.shields.io/badge/-PyCharm%20Professional-030712?style=flat&logo=pycharm)&nbsp;
+![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-030712?style=flat&logo=intellijidea)&nbsp;
 
 ## 💼 &nbsp;Services I Offer
 
