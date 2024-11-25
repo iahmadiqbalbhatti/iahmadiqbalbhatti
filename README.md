@@ -90,7 +90,7 @@ Developing and optimizing e-commerce platforms, focusing on performance, scalabi
 
 ### Contract Developer at **Marketing Nostra**
 - **Role:** Contract Developer
-- **Duration:** 2023 - Present
+- **Duration:** 2024 - Present
 - **Responsibilities:**
     - Developing business websites, landing pages, and e-commerce platforms using WordPress Elementor, WooCommerce, Shopify, and Wix.
     - Customizing websites to meet specific client requirements, ensuring responsive and optimized designs.
