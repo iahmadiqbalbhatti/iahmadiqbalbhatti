@@ -123,10 +123,10 @@ I provide **pro bono** and **discounted web development services** to **non-prof
 <p style="text-align: center">
     <a href="https://ahmadiqbalbhatti.com/"><img src="https://img.shields.io/badge/MyWebsite-Ahmad%20Iqbal%20Bhatti-blue?logo=MyWebsite&logoColor=white"/></a>
     <a href="https://calendly.com/ahmediqbalbhatti1/30min"><img src="https://img.shields.io/badge/Book-An%20Appointment-8247F5?logo=Book&logoColor=black"/></a>
-    <a href="https://www.linkedin.com/in/ahmadiqbalbhatti/"><img src="https://img.shields.io/badge/-ahmadiqbalbhatti-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/iahmadiqbalbhatti/"><img src="https://img.shields.io/badge/-ahmadiqbalbhatti-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:ahmediqbalbhatti1@gmail.com"><img src="https://img.shields.io/badge/-ahmediqbalbhatti1@gmail.com-C5221F?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.facebook.com/ahmadiqbal.bhatti.98/"><img src="https://img.shields.io/badge/-@ahmadiqbal.bhatti.98-0866FF?style=flat&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/ahmadiqbal.bhatti/"><img src="https://img.shields.io/badge/-@ahmadiqbal.bhatti-D000C2?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.youtube.com/@ahmadiqbalbhatti"><img src="https://img.shields.io/badge/-@ahmadiqbalbhatti-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
+    <a href="https://www.facebook.com/iahmadiqbalbhatti/"><img src="https://img.shields.io/badge/-@ahmadiqbal.bhatti.98-0866FF?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.instagram.com/iahmadiqbalbhatti/"><img src="https://img.shields.io/badge/-@ahmadiqbal.bhatti-D000C2?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.youtube.com/@iahmadiqbalbhatti"><img src="https://img.shields.io/badge/-@ahmadiqbalbhatti-FF0000?style=flat&logo=YouTube&logoColor=white"/></a>
     <a href="https://www.upwork.com/freelancers/~0137feb4ead84e113f"><img src="https://img.shields.io/badge/-@upwork-14A800?style=flat&logo=Upwork&logoColor=white"/></a>
 </p>
