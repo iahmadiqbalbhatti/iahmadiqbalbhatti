@@ -113,8 +113,8 @@ I provide **pro bono** and **discounted web development services** to **non-prof
 
 <p align="center">
 <a href="https://github.com/ahmadiqbalbhatti" >
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadiqbalbhatti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadiqbalbhatti&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iahmadiqbalbhatti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iahmadiqbalbhatti&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
